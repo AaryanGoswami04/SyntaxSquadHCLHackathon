@@ -1,0 +1,61 @@
+# -----------------------------
+
+# Python
+
+# -----------------------------
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.pyo
+
+# Python environments
+
+venv/
+.env/
+.env.*
+
+# Python packaging
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ML / Data files
+
+# -----------------------------
+
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.h5
+*.model
+
+
+# -----------------------------
+
+# Node / Frontend
+
+# -----------------------------
+
+node_modules/
+
+
+# Vite build output
+
+dist/
+.vite/
+
+# -----------------------------
+
+# Environment variables
+
+# -----------------------------
+
+.env
+
+
