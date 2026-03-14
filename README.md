@@ -3,4 +3,4 @@
 ![System Design Documentation](./images/img1.png)
 ![System Design Documentation](./images/img3.png)
 ![System Design Documentation](./images/img4.jpeg)
-![System Design Documentation](./images/img5.jpeg)
+![System Design Documentation](./images/img5.png)
