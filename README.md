@@ -7,3 +7,4 @@
 ![System Design Documentation](./images/img6.png)
 ![System Design Documentation](./images/img7.png)
 ![System Design Documentation](./images/img8.png)
+![System Design Documentation](./images/Dashboard.jpeg)
